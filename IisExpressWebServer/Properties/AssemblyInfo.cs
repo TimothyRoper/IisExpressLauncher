@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("IisExpressWebServer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Allows you to launch IisExpress")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("DamiGerarTim Corp (inc)")]
 [assembly: AssemblyProduct("IisExpressWebServer")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]

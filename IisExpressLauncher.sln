@@ -11,6 +11,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{54D309A9-E9BD-44CC-ADF3-5B1BD122EB74}"
+	ProjectSection(SolutionItems) = preProject
+		nuget\createnugetpackage.bat = nuget\createnugetpackage.bat
+		nuget\NuGet.exe = nuget\NuGet.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
